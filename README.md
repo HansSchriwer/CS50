@@ -1,1 +1,1 @@
-Harvard Class CS50 Programming with Python # CS50
+Harvard University - Programming with Python # CS50
